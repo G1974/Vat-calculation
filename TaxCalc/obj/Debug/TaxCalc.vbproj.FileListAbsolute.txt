@@ -1,0 +1,12 @@
+C:\Users\Giorgos\source\repos\TaxCalc\TaxCalc\bin\Debug\TaxCalc.exe.config
+C:\Users\Giorgos\source\repos\TaxCalc\TaxCalc\bin\Debug\TaxCalc.exe
+C:\Users\Giorgos\source\repos\TaxCalc\TaxCalc\bin\Debug\TaxCalc.pdb
+C:\Users\Giorgos\source\repos\TaxCalc\TaxCalc\bin\Debug\TaxCalc.xml
+C:\Users\Giorgos\source\repos\TaxCalc\TaxCalc\obj\Debug\TaxCalc.vbproj.AssemblyReference.cache
+C:\Users\Giorgos\source\repos\TaxCalc\TaxCalc\obj\Debug\TaxCalc.Form1.resources
+C:\Users\Giorgos\source\repos\TaxCalc\TaxCalc\obj\Debug\TaxCalc.Resources.resources
+C:\Users\Giorgos\source\repos\TaxCalc\TaxCalc\obj\Debug\TaxCalc.vbproj.GenerateResource.cache
+C:\Users\Giorgos\source\repos\TaxCalc\TaxCalc\obj\Debug\TaxCalc.vbproj.CoreCompileInputs.cache
+C:\Users\Giorgos\source\repos\TaxCalc\TaxCalc\obj\Debug\TaxCalc.exe
+C:\Users\Giorgos\source\repos\TaxCalc\TaxCalc\obj\Debug\TaxCalc.xml
+C:\Users\Giorgos\source\repos\TaxCalc\TaxCalc\obj\Debug\TaxCalc.pdb
